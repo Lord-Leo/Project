@@ -1,0 +1,16 @@
+AUDIO ASSET NOTICE
+==================
+
+All WAV files in this sounds directory except the three files listed below
+were procedurally generated specifically for this Interactive Classroom
+project and may be used, modified, and redistributed with or separately from
+the project without attribution:
+
+- footsteps/footstep_01.wav
+- footsteps/footstep_02.wav
+- footsteps/footstep_03.wav
+
+Those three footstep files are edited excerpts derived from the audio recording
+`footsteps-male-362053(1).mp3`, which was supplied by the project user for this
+integration. Rights and redistribution permissions for that source recording
+remain the responsibility of the user who supplied it.

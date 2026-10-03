@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glfw-subbuild\CMakeFiles\5018dcf6700ba3769fb47af2c127b767\glfw-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glfw-subbuild\CMakeFiles\5018dcf6700ba3769fb47af2c127b767\glfw-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glfw-subbuild\CMakeFiles\5018dcf6700ba3769fb47af2c127b767\glfw-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glfw-subbuild\CMakeFiles\5018dcf6700ba3769fb47af2c127b767\glfw-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glfw-subbuild\CMakeFiles\5018dcf6700ba3769fb47af2c127b767\glfw-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glfw-subbuild\CMakeFiles\5018dcf6700ba3769fb47af2c127b767\glfw-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glfw-subbuild\CMakeFiles\5018dcf6700ba3769fb47af2c127b767\glfw-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glfw-subbuild\CMakeFiles\5018dcf6700ba3769fb47af2c127b767\glfw-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glfw-subbuild\CMakeFiles\b52e92378cd8cd528784ec7cef02b7f2\glfw-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glfw-subbuild\CMakeFiles\96dfd38a9e4f3dac1a12abb1b71e5235\glfw-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glfw-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glfw-subbuild\CMakeFiles\glfw-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6B94B632-1040-38C7-8D58-6CABF5BDB73B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

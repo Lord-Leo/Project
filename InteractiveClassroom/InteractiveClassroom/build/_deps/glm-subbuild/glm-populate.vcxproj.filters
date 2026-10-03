@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glm-subbuild\CMakeFiles\d03b99896f0a544015a537329e81d155\glm-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glm-subbuild\CMakeFiles\d03b99896f0a544015a537329e81d155\glm-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glm-subbuild\CMakeFiles\d03b99896f0a544015a537329e81d155\glm-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glm-subbuild\CMakeFiles\d03b99896f0a544015a537329e81d155\glm-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glm-subbuild\CMakeFiles\d03b99896f0a544015a537329e81d155\glm-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glm-subbuild\CMakeFiles\d03b99896f0a544015a537329e81d155\glm-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glm-subbuild\CMakeFiles\d03b99896f0a544015a537329e81d155\glm-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glm-subbuild\CMakeFiles\d03b99896f0a544015a537329e81d155\glm-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glm-subbuild\CMakeFiles\3b3f2a2eeb7f3d0058c10ea99fc22e1f\glm-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glm-subbuild\CMakeFiles\88ff93493ba8bd71e896e5a1d3222a3f\glm-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glm-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glm-subbuild\CMakeFiles\glm-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F837C880-0A90-353A-9438-50370DB34A67}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

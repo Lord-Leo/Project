@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glm-subbuild/CMakeFiles/glm-populate"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glm-subbuild/CMakeFiles/88ff93493ba8bd71e896e5a1d3222a3f/glm-populate.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glm-subbuild/CMakeFiles/3b3f2a2eeb7f3d0058c10ea99fc22e1f/glm-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glm-subbuild/CMakeFiles/d03b99896f0a544015a537329e81d155/glm-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glm-subbuild/CMakeFiles/d03b99896f0a544015a537329e81d155/glm-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glm-subbuild/CMakeFiles/d03b99896f0a544015a537329e81d155/glm-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glm-subbuild/CMakeFiles/d03b99896f0a544015a537329e81d155/glm-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glm-subbuild/CMakeFiles/d03b99896f0a544015a537329e81d155/glm-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glm-subbuild/CMakeFiles/d03b99896f0a544015a537329e81d155/glm-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glm-subbuild/CMakeFiles/d03b99896f0a544015a537329e81d155/glm-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glm-subbuild/CMakeFiles/d03b99896f0a544015a537329e81d155/glm-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glm-populate"
+		],
+		"name" : "glm-populate"
+	}
+}

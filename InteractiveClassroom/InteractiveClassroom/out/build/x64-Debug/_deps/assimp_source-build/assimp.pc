@@ -1,0 +1,9 @@
+libdir=F:/Classroom/InteractiveClassroom/out/install/x64-Debug/lib
+includedir=F:/Classroom/InteractiveClassroom/out/install/x64-Debug/include
+
+Name: InteractiveClassroom
+Description: Import various well-known 3D model formats in an uniform manner.
+Version: 5.4.3
+Libs: -L${libdir} -lassimp
+Libs.private:  
+Cflags: -I${includedir}

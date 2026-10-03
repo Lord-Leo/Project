@@ -1,0 +1,21 @@
+# ninja log v6
+4	58	8120656460297804	stb-populate-prefix/src/stb-populate-stamp/stb-populate-mkdir	80d7256f73342003
+4	58	8120656460297804	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-mkdir	80d7256f73342003
+58	3907	8120656498771071	stb-populate-prefix/src/stb-populate-stamp/stb-populate-download	176ff44cb282e3de
+58	3907	8120656498771071	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-download	176ff44cb282e3de
+3907	4040	8120656498831478	stb-populate-prefix/src/stb-populate-stamp/stb-populate-update	7d5aec4b28e7e5a3
+3907	4040	8120656498831478	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-update	7d5aec4b28e7e5a3
+4051	4106	8120656500768579	stb-populate-prefix/src/stb-populate-stamp/stb-populate-patch	a7b5b40b843d9638
+4051	4106	8120656500768579	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-patch	a7b5b40b843d9638
+4106	4161	8120656501309702	stb-populate-prefix/src/stb-populate-stamp/stb-populate-configure	6993023a930bf1b9
+4106	4161	8120656501309702	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-configure	6993023a930bf1b9
+4161	4215	8120656501862920	stb-populate-prefix/src/stb-populate-stamp/stb-populate-build	923826e5b6e569f0
+4161	4215	8120656501862920	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-build	923826e5b6e569f0
+4215	4273	8120656502429690	stb-populate-prefix/src/stb-populate-stamp/stb-populate-install	d3c3091ccfd0a160
+4215	4273	8120656502429690	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-install	d3c3091ccfd0a160
+4273	4326	8120656502971420	stb-populate-prefix/src/stb-populate-stamp/stb-populate-test	1fb09c6a25ff3e88
+4273	4326	8120656502971420	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-test	1fb09c6a25ff3e88
+4327	4399	8120656503695797	CMakeFiles/stb-populate-complete	50b64de39ee8715f
+4327	4399	8120656503695797	stb-populate-prefix/src/stb-populate-stamp/stb-populate-done	50b64de39ee8715f
+4327	4399	8120656503695797	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/CMakeFiles/stb-populate-complete	50b64de39ee8715f
+4327	4399	8120656503695797	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-done	50b64de39ee8715f

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/CMakeFiles/miniaudio_source-populate"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/CMakeFiles/miniaudio_source-populate.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/CMakeFiles/miniaudio_source-populate-complete.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-build.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-configure.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-download.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-install.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-mkdir.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-patch.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-test.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"miniaudio_source-populate"
+		],
+		"name" : "miniaudio_source-populate"
+	}
+}

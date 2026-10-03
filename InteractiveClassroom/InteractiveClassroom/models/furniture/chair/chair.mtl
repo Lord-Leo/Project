@@ -1,0 +1,8 @@
+# Opaque classroom chair material
+newmtl main
+Ka 0.035 0.040 0.050
+Kd 0.11 0.13 0.16
+Ks 0.08 0.08 0.09
+Ns 16.0
+d 1.0
+illum 2

@@ -1,0 +1,6 @@
+Interactive Classroom self-created texture assets
+
+All PNG files under textures/materials and textures/fallback were generated
+specifically for this project and may be used, modified, and redistributed
+with the project without restriction. No commercial or third-party texture is
+included.

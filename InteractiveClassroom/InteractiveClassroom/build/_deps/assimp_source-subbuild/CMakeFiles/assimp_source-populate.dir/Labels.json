@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/assimp_source-populate"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/428456519b36f9338cbbc824a979278e/assimp_source-populate.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/0b0c0ae4c07e09c1626b0afb62e61a19/assimp_source-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"assimp_source-populate"
+		],
+		"name" : "assimp_source-populate"
+	}
+}

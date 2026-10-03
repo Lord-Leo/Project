@@ -1,0 +1,17 @@
+CUSTOM FOOTSTEP ASSET
+=====================
+
+footstep_01.wav, footstep_02.wav, and footstep_03.wav were prepared from the
+user-provided recording named `footsteps-male-362053(1).mp3`.
+
+Processing applied:
+- converted to mono
+- resampled/kept at 44,100 Hz
+- encoded as 16-bit PCM WAV
+- split into three individual step transients
+- short fade-in/fade-out to prevent clicks
+- peak normalized to approximately -1.5 dBFS
+
+The original MP3 is not required by the game and is not included in the clean
+project ZIP. Runtime loading continues to use the existing filenames, so no
+C++ path or interaction logic changed.

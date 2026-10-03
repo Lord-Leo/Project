@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\assimp_source-subbuild\CMakeFiles\ac46682a50e555c96f350b9f99603c65\assimp_source-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\assimp_source-subbuild\CMakeFiles\ac46682a50e555c96f350b9f99603c65\assimp_source-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\assimp_source-subbuild\CMakeFiles\ac46682a50e555c96f350b9f99603c65\assimp_source-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\assimp_source-subbuild\CMakeFiles\ac46682a50e555c96f350b9f99603c65\assimp_source-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\assimp_source-subbuild\CMakeFiles\ac46682a50e555c96f350b9f99603c65\assimp_source-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\assimp_source-subbuild\CMakeFiles\ac46682a50e555c96f350b9f99603c65\assimp_source-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\assimp_source-subbuild\CMakeFiles\ac46682a50e555c96f350b9f99603c65\assimp_source-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\assimp_source-subbuild\CMakeFiles\ac46682a50e555c96f350b9f99603c65\assimp_source-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\assimp_source-subbuild\CMakeFiles\0b0c0ae4c07e09c1626b0afb62e61a19\assimp_source-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\assimp_source-subbuild\CMakeFiles\428456519b36f9338cbbc824a979278e\assimp_source-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\assimp_source-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\assimp_source-subbuild\CMakeFiles\assimp_source-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{29B4AA07-D658-396C-846F-CA6DA4F67D48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

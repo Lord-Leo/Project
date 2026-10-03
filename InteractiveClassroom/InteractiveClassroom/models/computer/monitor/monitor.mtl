@@ -1,0 +1,7 @@
+# Self-created CC0 low-poly asset for this project
+newmtl main
+Kd 0.0450 0.0450 0.0500
+Ks 0.0400 0.0400 0.0400
+Ns 2.00
+d 1.0
+illum 2

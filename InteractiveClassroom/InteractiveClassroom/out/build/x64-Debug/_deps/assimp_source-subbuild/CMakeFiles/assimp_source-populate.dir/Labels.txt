@@ -1,0 +1,14 @@
+# Target labels
+ assimp_source-populate
+# Source files and their labels
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/CMakeFiles/assimp_source-populate
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/CMakeFiles/assimp_source-populate.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/CMakeFiles/assimp_source-populate-complete.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-build.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-configure.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-download.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-install.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-mkdir.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-patch.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-test.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-update.rule

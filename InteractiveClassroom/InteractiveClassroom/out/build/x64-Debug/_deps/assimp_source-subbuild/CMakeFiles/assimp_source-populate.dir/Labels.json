@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/CMakeFiles/assimp_source-populate"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/CMakeFiles/assimp_source-populate.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/CMakeFiles/assimp_source-populate-complete.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-build.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-configure.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-download.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-install.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-mkdir.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-patch.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-test.rule"
+		},
+		{
+			"file" : "F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"assimp_source-populate"
+		],
+		"name" : "assimp_source-populate"
+	}
+}

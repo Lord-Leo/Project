@@ -1,0 +1,14 @@
+# Target labels
+ stb-populate
+# Source files and their labels
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/CMakeFiles/stb-populate
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/CMakeFiles/stb-populate.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/CMakeFiles/stb-populate-complete.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-build.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-configure.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-download.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-install.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-mkdir.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-patch.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-test.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/stb-subbuild/stb-populate-prefix/src/stb-populate-stamp/stb-populate-update.rule

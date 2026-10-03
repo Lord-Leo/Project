@@ -1,0 +1,10 @@
+^C:\USERS\USER\DOWNLOADS\INTERACTIVECLASSROOM\INTERACTIVECLASSROOM\BUILD\_DEPS\GLM-SUBBUILD\CMAKEFILES\88FF93493BA8BD71E896E5A1D3222A3F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glm-subbuild -BC:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glm-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glm-subbuild/glm-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\stb-subbuild\CMakeFiles\c8d33ce8fb127d0f1f666beef06aa238\stb-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\stb-subbuild\CMakeFiles\c8d33ce8fb127d0f1f666beef06aa238\stb-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\stb-subbuild\CMakeFiles\c8d33ce8fb127d0f1f666beef06aa238\stb-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\stb-subbuild\CMakeFiles\c8d33ce8fb127d0f1f666beef06aa238\stb-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\stb-subbuild\CMakeFiles\c8d33ce8fb127d0f1f666beef06aa238\stb-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\stb-subbuild\CMakeFiles\c8d33ce8fb127d0f1f666beef06aa238\stb-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\stb-subbuild\CMakeFiles\c8d33ce8fb127d0f1f666beef06aa238\stb-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\stb-subbuild\CMakeFiles\c8d33ce8fb127d0f1f666beef06aa238\stb-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\stb-subbuild\CMakeFiles\0d82b27620b3f04bad6ef2cc17cf6b0e\stb-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\stb-subbuild\CMakeFiles\f89016161b0faee37ef77b4be62d40ec\stb-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\stb-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\stb-subbuild\CMakeFiles\stb-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9801D38D-B8E6-3DF3-A914-DD5DF0862454}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

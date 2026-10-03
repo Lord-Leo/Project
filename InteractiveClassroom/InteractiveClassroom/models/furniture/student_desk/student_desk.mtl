@@ -1,0 +1,8 @@
+# Opaque classroom desk material
+newmtl main
+Ka 0.12 0.10 0.07
+Kd 0.58 0.38 0.18
+Ks 0.10 0.08 0.05
+Ns 18.0
+d 1.0
+illum 2

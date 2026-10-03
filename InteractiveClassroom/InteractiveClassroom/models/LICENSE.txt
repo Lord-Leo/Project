@@ -1,0 +1,6 @@
+Interactive Classroom self-created model assets
+
+The OBJ/MTL files included under models/furniture and models/computer were
+created specifically for this project and may be used, modified, and
+redistributed with the project without restriction. No commercial or
+third-party model is included.

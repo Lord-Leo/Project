@@ -1,0 +1,14 @@
+# Target labels
+ miniaudio_source-populate
+# Source files and their labels
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/CMakeFiles/miniaudio_source-populate
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/CMakeFiles/miniaudio_source-populate.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/CMakeFiles/miniaudio_source-populate-complete.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-build.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-configure.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-download.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-install.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-mkdir.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-patch.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-test.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-update.rule

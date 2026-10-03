@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Downloads\InteractiveClassroom\InteractiveClassroom\build\_deps\glfw-subbuild\CMakeFiles\96dfd38a9e4f3dac1a12abb1b71e5235\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6B94B632-1040-38C7-8D58-6CABF5BDB73B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

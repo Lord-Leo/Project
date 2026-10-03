@@ -1,0 +1,14 @@
+# Target labels
+ assimp_source-populate
+# Source files and their labels
+C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/assimp_source-populate
+C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/428456519b36f9338cbbc824a979278e/assimp_source-populate.rule
+C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/0b0c0ae4c07e09c1626b0afb62e61a19/assimp_source-populate-complete.rule
+C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-build.rule
+C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-configure.rule
+C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-download.rule
+C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-install.rule
+C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-mkdir.rule
+C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-patch.rule
+C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-test.rule
+C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ac46682a50e555c96f350b9f99603c65/assimp_source-populate-update.rule

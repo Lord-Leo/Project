@@ -1,0 +1,21 @@
+# ninja log v6
+3	67	8120656507605354	miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-mkdir	f85f11229c211292
+3	67	8120656507605354	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-mkdir	f85f11229c211292
+68	4339	8120656550403641	miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-download	7026de87a3a35a78
+68	4339	8120656550403641	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-download	7026de87a3a35a78
+4347	4472	8120656550540333	miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-update	1b69a7f675d564d6
+4347	4472	8120656550540333	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-update	1b69a7f675d564d6
+4472	4529	8120656552302922	miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-patch	bf659ffa4a33d2db
+4472	4529	8120656552302922	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-patch	bf659ffa4a33d2db
+4529	4583	8120656552849092	miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-configure	18a15534443b5d4c
+4529	4583	8120656552849092	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-configure	18a15534443b5d4c
+4583	4636	8120656553380051	miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-build	737d290d74e5622e
+4583	4636	8120656553380051	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-build	737d290d74e5622e
+4636	4688	8120656553906805	miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-install	54de4c9183c88fe7
+4636	4688	8120656553906805	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-install	54de4c9183c88fe7
+4688	4740	8120656554418122	miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-test	f84483dc91d615e1
+4688	4740	8120656554418122	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-test	f84483dc91d615e1
+4740	4811	8120656555128048	CMakeFiles/miniaudio_source-populate-complete	b4cd72e2d16e648e
+4740	4811	8120656555128048	miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-done	b4cd72e2d16e648e
+4740	4811	8120656555128048	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/CMakeFiles/miniaudio_source-populate-complete	b4cd72e2d16e648e
+4740	4811	8120656555128048	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/miniaudio_source-subbuild/miniaudio_source-populate-prefix/src/miniaudio_source-populate-stamp/miniaudio_source-populate-done	b4cd72e2d16e648e

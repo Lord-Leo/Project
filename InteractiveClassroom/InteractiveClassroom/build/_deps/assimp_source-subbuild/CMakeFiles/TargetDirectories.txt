@@ -1,0 +1,3 @@
+C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/assimp_source-populate.dir
+C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/assimp_source-subbuild/CMakeFiles/ZERO_CHECK.dir

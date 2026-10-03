@@ -1,0 +1,21 @@
+# ninja log v6
+3	58	8120656558538511	assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-mkdir	72f87f3fda193452
+3	58	8120656558538511	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-mkdir	72f87f3fda193452
+58	30516	8120656863120372	assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-download	6b3ba1df96977874
+58	30516	8120656863120372	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-download	6b3ba1df96977874
+30516	30648	8120656863170378	assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-update	836a46664d5a7b81
+30516	30648	8120656863170378	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-update	836a46664d5a7b81
+30654	30712	8120656865069351	assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-patch	69d38edd2338cf12
+30654	30712	8120656865069351	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-patch	69d38edd2338cf12
+30712	30765	8120656865606626	assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-configure	a75259d4255b0cea
+30712	30765	8120656865606626	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-configure	a75259d4255b0cea
+30765	30818	8120656866133722	assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-build	3d41832158919cdd
+30765	30818	8120656866133722	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-build	3d41832158919cdd
+30819	30871	8120656866669672	assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-install	e030860faf4eb587
+30819	30871	8120656866669672	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-install	e030860faf4eb587
+30871	30924	8120656867192240	assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-test	584b353d0299c94b
+30871	30924	8120656867192240	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-test	584b353d0299c94b
+30924	30997	8120656867920896	CMakeFiles/assimp_source-populate-complete	61d7535b460dece
+30924	30997	8120656867920896	assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-done	61d7535b460dece
+30924	30997	8120656867920896	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/CMakeFiles/assimp_source-populate-complete	61d7535b460dece
+30924	30997	8120656867920896	F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/assimp_source-subbuild/assimp_source-populate-prefix/src/assimp_source-populate-stamp/assimp_source-populate-done	61d7535b460dece

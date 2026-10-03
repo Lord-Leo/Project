@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test.rule
+F:/Classroom/InteractiveClassroom/out/build/x64-Debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update.rule

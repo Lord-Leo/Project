@@ -1,0 +1,15 @@
+prefix=F:/Classroom/InteractiveClassroom/out/install/x64-Debug
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=${exec_prefix}/lib
+
+Name: miniaudio
+Description: An audio playback and capture library.
+URL: https://miniaud.io/
+License: Unlicense OR MIT-0
+Version: 0.11.25
+
+Requires.private: 
+Cflags: -I${includedir} -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_MP3
+Libs: -L${libdir} -lminiaudio
+Libs.private: 

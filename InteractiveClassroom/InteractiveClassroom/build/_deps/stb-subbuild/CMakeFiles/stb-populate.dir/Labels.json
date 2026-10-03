@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/stb-subbuild/CMakeFiles/stb-populate"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/stb-subbuild/CMakeFiles/f89016161b0faee37ef77b4be62d40ec/stb-populate.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/stb-subbuild/CMakeFiles/0d82b27620b3f04bad6ef2cc17cf6b0e/stb-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/stb-subbuild/CMakeFiles/c8d33ce8fb127d0f1f666beef06aa238/stb-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/stb-subbuild/CMakeFiles/c8d33ce8fb127d0f1f666beef06aa238/stb-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/stb-subbuild/CMakeFiles/c8d33ce8fb127d0f1f666beef06aa238/stb-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/stb-subbuild/CMakeFiles/c8d33ce8fb127d0f1f666beef06aa238/stb-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/stb-subbuild/CMakeFiles/c8d33ce8fb127d0f1f666beef06aa238/stb-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/stb-subbuild/CMakeFiles/c8d33ce8fb127d0f1f666beef06aa238/stb-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/stb-subbuild/CMakeFiles/c8d33ce8fb127d0f1f666beef06aa238/stb-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/stb-subbuild/CMakeFiles/c8d33ce8fb127d0f1f666beef06aa238/stb-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"stb-populate"
+		],
+		"name" : "stb-populate"
+	}
+}

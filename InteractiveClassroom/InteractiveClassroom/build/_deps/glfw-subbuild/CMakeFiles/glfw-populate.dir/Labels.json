@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glfw-subbuild/CMakeFiles/96dfd38a9e4f3dac1a12abb1b71e5235/glfw-populate.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glfw-subbuild/CMakeFiles/b52e92378cd8cd528784ec7cef02b7f2/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glfw-subbuild/CMakeFiles/5018dcf6700ba3769fb47af2c127b767/glfw-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glfw-subbuild/CMakeFiles/5018dcf6700ba3769fb47af2c127b767/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glfw-subbuild/CMakeFiles/5018dcf6700ba3769fb47af2c127b767/glfw-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glfw-subbuild/CMakeFiles/5018dcf6700ba3769fb47af2c127b767/glfw-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glfw-subbuild/CMakeFiles/5018dcf6700ba3769fb47af2c127b767/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glfw-subbuild/CMakeFiles/5018dcf6700ba3769fb47af2c127b767/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glfw-subbuild/CMakeFiles/5018dcf6700ba3769fb47af2c127b767/glfw-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/User/Downloads/InteractiveClassroom/InteractiveClassroom/build/_deps/glfw-subbuild/CMakeFiles/5018dcf6700ba3769fb47af2c127b767/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}
